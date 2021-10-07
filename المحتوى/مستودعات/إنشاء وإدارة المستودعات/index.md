@@ -5,7 +5,7 @@ redirect_from:
   - /articles/creating-a-repository-on-github
   - /github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github
 versions:
-  fpt: '*'
+  fpt: '*'المستندات/المحتوى/مستودعات/إنشاء وإدارة المستودعات/ index.md
   ghes: '*'
   ghae: '*'
 topics:
@@ -16,7 +16,7 @@ children:
   - /creating-a-repository-from-a-template
   - /creating-a-template-repository
   - /creating-an-issues-only-repository
-  - /duplicating-a-repository
+  - /duplicating-a-repositorynpm install @codertocat/hello-world-npm@1.0.2
   - /cloning-a-repository
   - /troubleshooting-cloning-errors
   - /renaming-a-repository
